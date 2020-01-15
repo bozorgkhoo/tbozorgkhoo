@@ -1,4 +1,6 @@
 # tbozorgkhoo
-This is Lab0.
+This is Lab0
+
+
 Bahare Bozorgkhoo
-OPS435 Section C
+OPS435 SectionC
